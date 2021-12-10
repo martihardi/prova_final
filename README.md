@@ -2,6 +2,15 @@
 
 ## Como completar esse test
 
+Clone o projeto para sua maquina
+
+```bash
+git clone https://github.com/Dione-Vianna/examination.git
+cd examination
+yarn install
+yarn start
+```
+
 - Completar o código onde tem comentários
 - O resultado final vai ser uma api para criação de todos
 
