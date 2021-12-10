@@ -2,7 +2,7 @@
 
 ## Como completar esse test
 
-- Voce deve completar o código onde tem comentários
+- Completar o código onde tem comentários
 - O resultado final vai ser uma api para criação de todos
 
 Exemplo de retorno do banco de dados
@@ -31,7 +31,7 @@ Exemplo de retorno do banco de dados
 
 ## Um passo a diante
 
-### Para aqueles que querem ir alem
+### Para aqueles que querem ir além
 
 - Fazer validação de todos
 - Não poder cria um tudo existente
