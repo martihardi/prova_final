@@ -27,7 +27,7 @@ Exemplo de retorno do banco de dados
     "updated_at": "2021-12-10T14:20:03.699Z",
     "task": "meu todo",
     "owner": "vianna",
-    "status": 0
+    "status": "pending"
   }
 ]
 ```
